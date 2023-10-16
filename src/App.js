@@ -8,7 +8,7 @@ function App() {
           Tumhari agar chaggi h aur tumhari placement nai lag rhi h
         </p>
         <p>
-          then you are at the right place
+          then you are at the right place.
         </p>
       </header>
     </div>
